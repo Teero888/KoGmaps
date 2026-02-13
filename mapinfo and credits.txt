@@ -972,6 +972,7 @@ urskog                    | Hard       | ★☆☆        | 16     | New_Hero   
 VampEz1                   | Easy       | ★★☆        | 2      | Vampyrali                 | 2017-08-26     
 Vampyrali2                | Main       | ★★☆        | 8      | Vampyrali                 | Released during a sunset
 Vampyrali3                | Main       | ★★☆        | 8      | Vampyrali                 | Released during a sunset
+Veltrix                   | Insane     | ★☆☆        | 27     | johny tailor              | 2026-02-09     
 Vigorously                | Main       | ★★★        | 11     | Zonsa                     | 2020-12-29     
 Voodi                     | Main       | ★★☆        | 8      | sasha34827                | 2025-08-24     
 WaLu                      | Hard       | ★★☆        | 21     | WaKarnage, Lucas          | 2021-11-16     
