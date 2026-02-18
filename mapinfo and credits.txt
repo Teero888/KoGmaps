@@ -78,6 +78,7 @@ bazawa                    | Insane     | ★★☆        | 32     | bzw        
 BBB                       | Extreme    | ★★★        | 78     | Krumplee                  | 2025-10-12     
 Beam                      | Insane     | ★★☆        | 36     | FlipLipp                  | 2019-07-17     
 BecauseMaybe              | Main       | ★★☆        | 8      | Afterbjörn                | 2024-09-01     
+BENEATH_A_DYING_SKY       | Extreme    | ★★☆        | 91     | SlyDzE                    | 2026-02-16     
 Beyblade                  | Hard       | ★★☆        | 18     | Shyzo                     | 2017-07-29     
 BG13                      | Solo       | ★★★★☆      | 27     | Themix                    | 2023-03-07     
 BHRX-Competition          | Main       | ★★☆        | 15     | Bl0odDens, Hallas, RedFight, xRyperion_ | Released during a sunset
