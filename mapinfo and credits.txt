@@ -72,6 +72,7 @@ Atheris4Kaeloo            | Insane     | ★☆☆        | 35     | Atheris    
 Aura                      | Mod        | ★★★★☆      | 22     | Warto                     | 2023-05-30     
 Autumn_Sunset             | Solo       | ★★☆☆☆      | 6      | Themix                    | 2023-03-28     
 Awakening                 | Hard       | ★★☆        | 24     | RealTaco                  | 2024-12-26     
+azra                      | Hard       | ★☆☆        | 14     | Arylz                     | 2026-03-03     
 BabyDragger               | Mod        | ★★★★☆      | 30     | тυx                       | 2025-09-01     
 Balada                    | Mod        | ★★★☆☆      | 14     | Warto                     | 2021-11-26     
 bazawa                    | Insane     | ★★☆        | 32     | bzw                       | 2020-04-07     
@@ -267,12 +268,14 @@ DuskyDrop                 | Mod        | ★★★★☆      | 22     | TeChNoB
 Dusty_Trip                | Main       | ★★★        | 8      | Canarda                   | 2025-05-03     
 Dynasty                   | Insane     | ★★☆        | 36     | Vida                      | 2024-11-17     
 DyrteeZ                   | Easy       | ★★★        | 3      | Zonsa                     | 2023-08-13     
+Dystopia                  | Main       | ★★★        | 11     | Afterbjörn & FJP          | 2026-02-22     
 E4RG                      | Insane     | ★★★        | 47     | escenitty                 | 2022-05-03     
 EARFQUAKE                 | Extreme    | ★☆☆        | 71     | ejjie & DragonFrey        | 2025-02-08     
 Eating_Hooks              | Insane     | ★★★        | 54     | Fliplipp, Hesse           | 2021-08-02     
 Eden                      | Main       | ★★☆        | 10     | Noe                       | 2017-07-21     
 elnoid4FJP                | Hard       | ★★☆        | 18     | elnoid                    | 2024-06-10     
 Elythrix                  | Main       | ★★☆        | 6      | xewoiy                    | 2025-09-07     
+Emerald_of_Gores          | Solo       | ★★★☆☆      | 14     | alya?                     | 2026-03-03     
 Encore                    | Main       | ★★☆        | 8      | encore[love]              | Released during a sunset
 Encore2                   | Main       | ★★☆        | 8      | encore[love]              | Released during a sunset
 Encore3e                  | Main       | ★★★        | 11     | encore[love]              | Released during a sunset
@@ -581,6 +584,7 @@ MikuEasy                  | Easy       | ★★☆        | 4      | Hatsune_Mik
 MikuGores                 | Hard       | ★★☆        | 18     | HatsuneMiku               | 2018-05-31     
 Milerty                   | Main       | ★★☆        | 8      | sasha34827                | 2025-12-31     
 Milkyway                  | Solo       | ★★☆☆☆      | 6      | Zonsa                     | 2023-08-03     
+Mimi                      | Extreme    | ★★☆        | 80     | Milaseq_ & Mixi           | 2026-02-22     
 Mimixi                    | Hard       | ★★☆        | 18     | Mixi                      | 2024-12-24     
 Mine                      | Main       | ★★★        | 11     | Oмezurion                 | 2021-07-23     
 Minecraft                 | Insane     | ★★★        | 47     | Hasty, Freguês            | 2023-02-17     
