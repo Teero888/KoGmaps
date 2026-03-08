@@ -586,6 +586,7 @@ Milerty                   | Main       | ★★☆        | 8      | S        | 
 Milkyway                  | Solo       | ★★☆☆☆      | 6      | -        | Zonsa                     | 2023-08-03
 Mimi                      | Extreme    | ★★☆        | 80     | XXL      | Milaseq_ & Mixi           | 2026-02-22
 Mimixi                    | Hard       | ★★☆        | 18     | S        | Mixi                      | 2024-12-24
+Miwackle                  | Insane     | ★★☆        | 36     | M        | sasha34827, ŁoʋƙieeŞ散     | 2026-03-08
 Mine                      | Main       | ★★★        | 11     | S        | Oмezurion                 | 2021-07-23
 Minecraft                 | Insane     | ★★★        | 47     | L        | Hasty, Freguês            | 2023-02-17
 Miniature_Fantasy         | Mod        | ★★★★☆      | 22     | -        | Themix                    | Released during a sunset
@@ -649,6 +650,7 @@ Nightingale               | Easy       | ★★★        | 5      | S        | 
 NightSky                  | Hard       | ★☆☆        | 16     | M        | Hunter.exe                | 2022-11-21
 No_mercy                  | Solo       | ★★★★★      | 44     | -        | Milaseq_                  | 2025-12-31
 Noctulo                   | Insane     | ★☆☆        | 30     | M        | elnoid                    | 2024-07-11
+Nocturne                  | Solo       | ★★☆        | 6      | -        | Canarda                   | 2026-03-08
 Noe1                      | Main       | ★★★        | 11     | S        | Noe                       | 2021-05-07
 NoWENTEE                  | Main       | ★★★        | 11     | S        | sd030                     | 2022-07-15
 Nox1                      | Hard       | ★★★        | 22     | S        | Nox                       | 2016-11-23
