@@ -17,11 +17,11 @@ MAP NAME                  | DIFF       | STARS      | PTS    | LENGTH   | CREATO
 2026                      | Main       | ★☆☆        | 6      | S        | Afterbjörn                | 2026-01-01
 24komyu                   | Hard       | ★★★        | 22     | S        | Komyu                     | 2023-06-04
 333                       | Insane     | ★★★        | 42     | M        | Mixi, mops333             | 2021-01-01
-36_5_buse                 | Extreme    | ★☆☆        | 44     | S        | 夜                         | 2024-05-31
+36_5_buse                 | Extreme    | ★☆☆        | 44     | S        | 夜                        | 2024-05-31
 48komyu                   | Insane     | ★☆☆        | 30     | M        | Komyu                     | 2023-10-18
 4Apfelsaft                | Main       | ★★★        | 13     | M        | Bl0odDens                 | 2015-05-15
 700-70                    | Hard       | ★☆☆        | 14     | S        | Яна Соли                  | 2025-03-30
-70s                       | Extreme    | ★☆☆        | 44     | S        | 夜                         | 2024-12-30
+70s                       | Extreme    | ★☆☆        | 44     | S        | 夜                        | 2024-12-30
 7DeadlySins               | Hard       | ★★☆        | 24     | L        | Afterburn and ZXC¿Girl?   | 2025-08-24
 80s                       | Extreme    | ★☆☆        | 44     | S        | Mixi                      | 2023-11-12
 90s                       | Extreme    | ★☆☆        | 44     | S        | Tr3agle                   | 2023-08-10
@@ -29,7 +29,7 @@ A_Christmas_Carol         | Hard       | ★★★        | 41     | XXL      | 
 Abyss                     | Hard       | ★★★        | 25     | M        | zale, BoWser              | 2022-03-08
 ACID                      | Insane     | ★★☆        | 32     | S        | RaiNy                     | 2019-02-02
 Action                    | Main       | ★★★        | 11     | S        | bzw                       | 2018-07-22
-ActionHallas              | Main       | ★★★        | 8      | XS       | Action & Hallas           | Released during a sunset
+ActionHallas              | Main       | ★★★        | 8      | XS       | Action, Hallas            | Released during a sunset
 Aerodynamics              | Extreme    | ★☆☆        | 44     | S        | TheSunSan                 | 2025-12-29
 afkomyu                   | Hard       | ★★★        | 25     | M        | Komyu                     | 2023-02-02
 afOatmeal                 | Main       | ★★★        | 13     | M        | Komyu                     | 2023-10-17
@@ -53,7 +53,7 @@ Angeldust2                | Insane     | ★★☆        | 40     | L        | 
 Angeldust3                | Insane     | ★★★        | 42     | M        | Angeldust                 | 2021-03-02
 Angry                     | Hard       | ★★☆        | 21     | M        | sasha34827                | 2025-04-27
 Anonymous                 | Main       | ★★☆        | 10     | M        | Zero, Omesurion           | 2021-06-22
-Anotherworld              | Hard       | ★★☆        | 21     | M        | J4M3S & Zonsa             | 2025-08-02
+Anotherworld              | Hard       | ★★☆        | 21     | M        | J4M3S, Zonsa              | 2025-08-02
 Aqua                      | Hard       | ★☆☆        | 14     | S        | Mqx                       | 2021-12-12
 Arcturus                  | Hard       | ★☆☆        | 16     | M        | Warto                     | 2024-03-16
 Arena                     | Main       | ★★☆        | 8      | S        | Warto                     | 2023-08-23
@@ -94,7 +94,7 @@ Bl0od4Waschi              | Hard       | ★★★        | 25     | M        | 
 Bl0od4Zant                | Main       | ★★☆        | 8      | S        | Bl0odDens                 | Released during a sunset
 Bl0odDens5                | Main       | ★★★        | 13     | M        | Bl0odDens                 | 2013-05-13
 Bl0odDens7                | Main       | ★★☆        | 8      | S        | Bl0odDens                 | Released during a sunset
-Bl0odFlip                 | Main       | ★★★        | 13     | M        | Bl0odDens & FlipLipp      | Released during a sunset
+Bl0odFlip                 | Main       | ★★★        | 13     | M        | Bl0odDens, FlipLipp       | Released during a sunset
 BLACK_SMOKE               | Main       | ★☆☆        | 5      | XS       | Rei ayanami               | 2021-07-09
 Black_Widow               | Extreme    | ★☆☆        | 54     | L        | Mixi                      | 2023-12-15
 BlackDoods                | Solo       | ★★☆☆☆      | 6      | -        | Zonsa                     | 2023-08-30
@@ -142,7 +142,7 @@ Caminata                  | Mod        | ★★★☆☆      | 14     | -      
 Canarda4IsaacElenbaas     | Main       | ★★★        | 11     | S        | Canarda                   | 2025-08-17
 CandyLand                 | Main       | ★☆☆        | 4      | XXS      | Krumplee                  | 2021-05-04
 CandyWorld                | Extreme    | ★☆☆        | 48     | M        | feat                      | 2024-08-11
-capon                     | Extreme    | ★☆☆        | 44     | S        | 夜                         | 2024-07-13
+capon                     | Extreme    | ★☆☆        | 44     | S        | 夜                        | 2024-07-13
 CastleMania               | Hard       | ★★☆        | 24     | L        | Krumplee                  | 2019-06-17
 Castlicca1                | Main       | ★★★        | 11     | S        | konwic                    | 2020-06-16
 Catalan_Aim               | Hard       | ★★★        | 25     | M        | Knuski                    | 2021-08-20
@@ -156,7 +156,7 @@ Ceniza                    | Mod        | ★★☆☆☆      | 8      | -      
 Cereja                    | Easy       | ★★☆        | 3      | XS       | WhySara                   | 2023-02-08
 CGores                    | Main       | ★★☆        | 12     | L        | Colgate                   | 2019-03-21
 CGores_2                  | Main       | ★★★        | 13     | M        | Colgate                   | 2020-07-24
-ChainsawMan               | Hard       | ★★★        | 48     | XXXL     | ejjie & Mixi              | 2024-06-30
+ChainsawMan               | Hard       | ★★★        | 48     | XXXL     | ejjie, Mixi               | 2024-06-30
 ChainsawMan2              | Insane     | ★★★        | 73     | XXXL     | ejjie                     | 2025-07-13
 Challenger                | Extreme    | ★★☆        | 70     | XL       | ѕнαяу                     | 2025-07-22
 Charover                  | Main       | ★☆☆        | 6      | S        | sasha34827                | 2025-04-04
@@ -179,12 +179,12 @@ ChillerDragores25         | Easy       | ★★★        | 5      | S        | 
 ChillerDragores26         | Hard       | ★☆☆        | 14     | S        | ChillerDragon             | 2017-02-18
 ChillerDragores4          | Main       | ★★☆        | 8      | S        | ChillerDragon             | Released during a sunset
 ChillerDragores7          | Main       | ★★☆        | 12     | L        | ChillerDragon             | Released during a sunset
-Choinka                   | Hard       | ★★★        | 29     | L        | Beautemps & Krumplee      | 2021-12-22
+Choinka                   | Hard       | ★★★        | 29     | L        | Beautemps, Krumplee       | 2021-12-22
 Circuit                   | Easy       | ★★★        | 4      | XS       | FJP                       | 2023-01-18
 Citadel                   | Hard       | ★★☆        | 21     | M        | Money Boy                 | 2021-10-05
 CkiS1                     | Insane     | ★★☆        | 36     | M        | Ckis                      | 2017-07-26
 CkiS2                     | Insane     | ★★☆        | 36     | M        | CkiS                      | 2017-06-10
-CkiS4Juicy                | Hard       | ★★☆        | 18     | S        | CkiS & Roco               | Released during a sunset
+CkiS4Juicy                | Hard       | ★★☆        | 18     | S        | CkiS, Roco                | Released during a sunset
 CkiS_4_CLow               | Hard       | ★★★        | 25     | M        | CkiS                      | 2018-06-16
 CkiS_4_effect             | Hard       | ★★★        | 25     | M        | CkiS                      | Released during a sunset
 CkiS_4_Jimmy              | Hard       | ★★★        | 25     | M        | Ckis                      | 2020-09-11
@@ -193,14 +193,14 @@ CkiS_4_MonkeyDream        | Insane     | ★★☆        | 36     | M        | 
 CkiS_4_Samu               | Hard       | ★★★        | 25     | M        | CkiS                      | Released during a sunset
 Ckis_4_unskilledplayer    | Main       | ★★★        | 11     | S        | Ckis                      | 2019-07-25
 CkiSbzw1                  | Insane     | ★★★        | 42     | M        | CkiSbzw                   | 2019-06-18
-CkisFlip                  | Insane     | ★☆☆        | 30     | M        | FlipLipp_Ckis             | 2018-10-11
-CkisFlip2                 | Insane     | ★★★        | 42     | M        | FlipLipp_Ckis             | 2020-01-17
+CkisFlip                  | Insane     | ★☆☆        | 30     | M        | FlipLipp, Ckis            | 2018-10-11
+CkisFlip2                 | Insane     | ★★★        | 42     | M        | FlipLipp, Ckis            | 2020-01-17
 CkiSNox1                  | Insane     | ★★☆        | 36     | M        | CkiS                      | 2017-04-23
 CkisTerston1              | Insane     | ★☆☆        | 35     | L        | CkisTerston               | 2017-08-11
 CkiSzale                  | Hard       | ★★★        | 25     | M        | CkiS, zale                | 2020-10-27
 Clean                     | Hard       | ★★☆        | 18     | S        | UnKnown                   | 2021-02-19
 ClosedTime                | Hard       | ★★★        | 22     | S        | Themed                    | 2022-12-01
-ColdNight                 | Hard       | ★★★        | 25     | M        | FlipLipp_Protokol         | 2019-04-12
+ColdNight                 | Hard       | ★★★        | 25     | M        | FlipLipp, Protokol        | 2019-04-12
 ColdNight_twisted         | Others     | ★★★        | 0      | -        | mind                      | 2024-12-17
 ColorCube1                | Hard       | ★★☆        | 21     | M        | Krixe                     | 2023-03-01
 ColorCube2                | Hard       | ★★☆        | 21     | M        | Krixe                     | 2024-12-25
@@ -247,10 +247,10 @@ Decimation                | Solo       | ★★★★☆      | 27     | -      
 DeepMadness               | Main       | ★★★        | 8      | XS       | Ryozuki                   | Released during a sunset
 DeepSea                   | Insane     | ★★★        | 42     | M        | Zale, BoWser              | 2022-11-15
 Deluxe                    | Hard       | ★★★        | 22     | S        | bzw                       | 2019-04-19
-Demonic                   | Insane     | ★☆☆        | 35     | L        | elnoid & Tae              | 2024-01-16
+Demonic                   | Insane     | ★☆☆        | 35     | L        | elnoid, Tae               | 2024-01-16
 Descarkent                | Extreme    | ★★☆        | 70     | XL       | Themix                    | 2025-04-27
-DesertQuest               | Main       | ★★★        | 20     | XL       | TeeShirt_purrpT           | 2020-02-20
-Destin2                   | Main       | ★★☆        | 8      | S        | destin & Kero             | Released during a sunset
+DesertQuest               | Main       | ★★★        | 20     | XL       | TeeShirt, purrpT          | 2020-02-20
+Destin2                   | Main       | ★★☆        | 8      | S        | destin, Kero              | Released during a sunset
 dindila                   | Insane     | ★★☆        | 36     | M        | bzw                       | 2021-01-04
 dionle                    | Main       | ★★★        | 13     | M        | elnoid                    | 2024-12-03
 Discipline                | Solo       | ★★★☆☆      | 14     | -        | ѕнαяу                     | 2024-05-11
@@ -268,9 +268,9 @@ DuskyDrop                 | Mod        | ★★★★☆      | 22     | -      
 Dusty_Trip                | Main       | ★★★        | 8      | XS       | Canarda                   | 2025-05-03
 Dynasty                   | Insane     | ★★☆        | 36     | M        | Vida                      | 2024-11-17
 DyrteeZ                   | Easy       | ★★★        | 3      | XXS      | Zonsa                     | 2023-08-13
-Dystopia                  | Main       | ★★★        | 11     | S        | Afterbjörn & FJP          | 2026-02-22
+Dystopia                  | Main       | ★★★        | 11     | S        | Afterbjörn, FJP           | 2026-02-22
 E4RG                      | Insane     | ★★★        | 47     | L        | escenitty                 | 2022-05-03
-EARFQUAKE                 | Extreme    | ★☆☆        | 71     | XXL      | ejjie & DragonFrey        | 2025-02-08
+EARFQUAKE                 | Extreme    | ★☆☆        | 71     | XXL      | ejjie, DragonFrey         | 2025-02-08
 Eating_Hooks              | Insane     | ★★★        | 54     | XL       | Fliplipp, Hesse           | 2021-08-02
 Eden                      | Main       | ★★☆        | 10     | M        | Noe                       | 2017-07-21
 elnoid4FJP                | Hard       | ★★☆        | 18     | S        | elnoid                    | 2024-06-10
@@ -314,12 +314,12 @@ fik4Kicker                | Main       | ★★☆        | 8      | S        | 
 fik4LemonTee              | Hard       | ★☆☆        | 14     | S        | fikmesan                  | 2020-11-03
 fik4snail                 | Main       | ★★☆        | 8      | S        | fikmesan                  | Released during a sunset
 fik4SubLime               | Main       | ★☆☆        | 4      | XXS      | fikmesan                  | 2021-03-22
-fikbzw                    | Main       | ★★★        | 11     | S        | fikmesan_bzw              | 2019-05-16
+fikbzw                    | Main       | ★★★        | 11     | S        | fikmesan, bzw             | 2019-05-16
 fikmesan                  | Main       | ★★☆        | 8      | S        | fikmesan                  | Released during a sunset
 fikvie                    | Main       | ★☆☆        | 12     | XL       | Ravie and fikmesan        | 2018-10-28
 FJP030                    | Main       | ★★☆        | 10     | M        | FJP, sd030                | 2022-06-24
-FJPxJonas                 | Insane     | ★★☆        | 40     | L        | FJP & Jonas               | 2026-01-12
-Flamingu                  | Main       | ★★★        | 16     | L        | ChillerDragon_aka_flamingu | 2017-02-02
+FJPxJonas                 | Insane     | ★★☆        | 40     | L        | FJP, Jonas                | 2026-01-12
+Flamingu                  | Main       | ★★★        | 16     | L        | ChillerDragon             | 2017-02-02
 Flip420                   | Hard       | ★★★        | 25     | M        | FlipLipp                  | 2019-03-05
 Flip4Benny                | Insane     | ★★☆        | 36     | M        | FlipLipp                  | 2019-01-15
 Flip4Bonny                | Hard       | ★★☆        | 24     | L        | FlipLipp                  | 2019-04-30
@@ -332,15 +332,15 @@ Flip4Samo                 | Hard       | ★★★        | 25     | M        | 
 Flip4Skiusep              | Hard       | ★★☆        | 21     | M        | FlipLipp                  | 2020-03-26
 Flip4U                    | Hard       | ★★★        | 25     | M        | FlipLipp                  | 2019-10-09
 FlipBzw                   | Insane     | ★☆☆        | 30     | M        | FlipLipp                  | 2018-08-11
-FlipBzw2                  | Insane     | ★☆☆        | 30     | M        | FlipLipp_bzw              | 2019-02-20
-FlipChillerDestin         | Main       | ★★★        | 13     | M        | FlipLipp, ChillerDragon & Destin | Released during a sunset
-FlipDragonYo              | Main       | ★★★        | 16     | L        | FlipLipp, Yo & ChillerDragon | Released during a sunset
+FlipBzw2                  | Insane     | ★☆☆        | 30     | M        | FlipLipp, bzw             | 2019-02-20
+FlipChillerDestin         | Main       | ★★★        | 13     | M        | FlipLipp, ChillerDragon, Destin | Released during a sunset
+FlipDragonYo              | Main       | ★★★        | 16     | L        | FlipLipp, Yo, ChillerDragon | Released during a sunset
 FlipFeat                  | Main       | ★★★        | 13     | M        | FlipLipp                  | 2018-10-07
 Flipfeat2                 | Insane     | ★★☆        | 40     | L        | FlipLipp, Feat            | 2022-11-21
-FlipFeat3                 | Insane     | ★★★        | 47     | L        | FlipLipp & feat           | 2026-01-31
+FlipFeat3                 | Insane     | ★★★        | 47     | L        | FlipLipp, feat            | 2026-01-31
 FlipGores                 | Main       | ★☆☆        | 6      | S        | FlipLipp                  | 2019-03-16
 FlipGores2                | Main       | ★★★        | 11     | S        | FlipLipp                  | 2023-08-01
-FlipHoffi                 | Main       | ★★☆        | 8      | S        | FlipLipp & HoffiPL        | Released during a sunset
+FlipHoffi                 | Main       | ★★☆        | 8      | S        | FlipLipp, HoffiPL         | Released during a sunset
 FlipLipp                  | Main       | ★★★        | 8      | XS       | FlipLipp                  | Released during a sunset
 FlipLipp10e               | Main       | ★★★        | 13     | M        | FlipLipp                  | Released during a sunset
 FlipLipp11                | Hard       | ★☆☆        | 16     | M        | FlipLipp                  | Released during a sunset
@@ -400,7 +400,7 @@ Generic_Purple            | Main       | ★☆☆        | 6      | S        | 
 Genex4Drakenmake          | Hard       | ★★★        | 25     | M        | Genex                     | 2019-01-27
 Gesteinskoernchen         | Hard       | ★★☆        | 18     | S        | Zonsa                     | 2019-09-28
 ghosttown                 | Insane     | ★★☆        | 36     | M        | se                        | 2020-12-01
-Ghoti                     | Insane     | ★★☆        | 36     | M        | anix1_sd1 & Warto         | 2025-05-18
+Ghoti                     | Insane     | ★★☆        | 36     | M        | anix1_sd1, Warto          | 2025-05-18
 Gianth                    | Main       | ★★★        | 11     | S        | Gianth                    | 2016-10-29
 Gigachad                  | Main       | ★★★        | 13     | M        | Tyrone, Rei Ayanami       | 2023-01-02
 Gloaming                  | Main       | ★★★        | 13     | M        | Shivi                     | 2024-12-24
@@ -421,7 +421,7 @@ Gradzes                   | Hard       | ★☆☆        | 14     | S        | 
 Granulos_De_Roca          | Insane     | ★★☆        | 32     | S        | Zonsa                     | 2020-07-21
 Grassy_Lands              | Hard       | ★★★        | 41     | XXL      | Canarda                   | 2025-09-23
 Grayscale                 | Hard       | ★★★        | 22     | S        | Thermiq                   | 2023-12-31
-GreeniRedFight            | Main       | ★★★        | 8      | XS       | Greeni & RedFight         | Released during a sunset
+GreeniRedFight            | Main       | ★★★        | 8      | XS       | Greeni, RedFight          | Released during a sunset
 GreenMoon                 | Hard       | ★★☆        | 18     | S        | FlipLipp                  | 2018-12-11
 Greeny                    | Easy       | ★★★        | 4      | XS       | KOF                       | 2022-04-26
 Greyfox                   | Main       | ★★☆        | 6      | XS       | Zonsa                     | 2022-01-02
@@ -459,7 +459,7 @@ HeyTux5                   | Main       | ★★★        | 11     | S        | 
 HeyTux6                   | Hard       | ★☆☆        | 14     | S        | Tux                       | 2019-11-20
 HeyTux7                   | Main       | ★☆☆        | 8      | M        | тυx                       | 2025-10-19
 HiddenIsland              | Main       | ★★★        | 13     | M        | Nyanto                    | 2018-02-27
-Himalaya                  | Mod        | ★★★★★      | 32     | -        | Brokecdx                  | 2019-08-08
+Himalaya                  | Mod        | ★★★★★      | 32     | -        | Brokecdx-                 | 2019-08-08
 Himalaya2                 | Mod        | ★★★★★      | 32     | -        | Brokecdx-                 | 2022-05-10
 Himalaya3                 | Mod        | ★★★☆☆      | 39     | -        | Brokecdx-                 | 2025-04-20
 himinn                    | Hard       | ★☆☆        | 20     | L        | New Hero                  | 2024-09-08
@@ -476,7 +476,7 @@ IceBox                    | Insane     | ★☆☆        | 35     | L        | 
 Icebreaker                | Easy       | ★★☆        | 2      | XXS      | AKc0RiZer                 | 2017-09-26
 Icicle                    | Hard       | ★☆☆        | 14     | S        | beatdown                  | 2023-01-21
 ikiedulover               | Hard       | ★★★        | 22     | S        | Colo-Colo                 | 2024-03-27
-Iloveyoumoreeachtimeyoudie | Extreme    | ★★★        | 98     | XXL      | Mixi                      | 2023-09-09
+Iloveyoumoreeachtimeyoudie| Extreme    | ★★★        | 98     | XXL      | Mixi                      | 2023-09-09
 ilyzaelle                 | Hard       | ★★☆        | 21     | M        | Colo-Colo                 | 2023-07-12
 Im_Climb5                 | Main       | ★★☆        | 10     | M        | Zerox                     | Released during a sunset
 Im_Climb_2                | Main       | ★★★        | 11     | S        | Im_Climb                  | Released during a sunset
@@ -487,7 +487,7 @@ Impossible                | Insane     | ★★☆        | 47     | XL       | 
 Impossible_2              | Extreme    | ★★☆        | 91     | XXXL     | Yo                        | 2021-08-13
 Improvise                 | Hard       | ★★☆        | 21     | M        | Knuski                    | 2019-11-24
 impton                    | Hard       | ★★★        | 22     | S        | Gotie, KOF                | 2022-02-15
-Inception                 | Hard       | ★★★        | 25     | M        | Brokecdx Miiep            | 2019-06-24
+Inception                 | Hard       | ★★★        | 25     | M        | Brokecdx-, Miiep          | 2019-06-24
 infazci                   | Insane     | ★★☆        | 32     | S        | rawensawa                 | 2023-10-24
 Infinished                | Hard       | ★★☆        | 21     | M        | Infi                      | 2023-09-12
 InkTerston1               | Main       | ★★★        | 13     | M        | Terston                   | 2017-08-27
@@ -497,9 +497,9 @@ Insane                    | Extreme    | ★☆☆        | 71     | XXL      | 
 Insanious                 | Extreme    | ★☆☆        | 71     | XXL      | purrp T                   | 2021-10-26
 Insidious                 | Hard       | ★★★        | 22     | S        | FJP                       | 2023-08-15
 insomyu                   | Insane     | ★☆☆        | 27     | S        | Komyu                     | 2024-09-06
-Interstellar              | Hard       | ★★☆        | 29     | XL       | Brokecdx_&_Miiep          | 2018-11-17
+Interstellar              | Hard       | ★★☆        | 29     | XL       | Brokecdx-, Miiep          | 2018-11-17
 IntoTheFog                | Main       | ★★★        | 11     | S        | purrp T                   | 2020-07-10
-iWebCkis1                 | Hard       | ★☆☆        | 14     | S        | iWeb_CkiS                 | 2019-09-04
+iWebCkis1                 | Hard       | ★☆☆        | 14     | S        | iWeb, CkiS                | 2019-09-04
 Jauria                    | Main       | ★★☆        | 10     | M        | Warto                     | 2022-06-21
 Jebeto-Gores              | Mod        | ★☆☆☆☆      | 4      | -        | Jebeto                    | Released during a sunset
 JoKGores                  | Insane     | ★★☆        | 36     | M        | JoKAir                    | 2022-04-08
@@ -514,8 +514,8 @@ JustCommunity             | Insane     | ★☆☆        | 48     | XXL      | 
 justfeat                  | Insane     | ★☆☆        | 30     | M        | feat                      | 2021-06-25
 JustTeE4JustNoob          | Hard       | ★★☆        | 21     | M        | Just_TeE                  | 2016-11-26
 kakdela                   | Insane     | ★☆☆        | 27     | S        | ejjie                     | 2025-09-29
-Kaston                    | Insane     | ★☆☆        | 30     | M        | ZXC¿Girl? & Twisted       | 2025-08-17
-Kawk_Doo                  | Insane     | ★★★        | 42     | M        | 곽 두                       | 2024-06-07
+Kaston                    | Insane     | ★☆☆        | 30     | M        | ZXC¿Girl?, Twisted        | 2025-08-17
+Kawk_Doo                  | Insane     | ★★★        | 42     | M        | 곽 두                     | 2024-06-07
 Kero-Gores1               | Main       | ★★☆        | 8      | S        | Kero                      | Released during a sunset
 Kero-Gores3               | Main       | ★★☆        | 10     | M        | Kero                      | Released during a sunset
 Kero-Gores4               | Main       | ★★☆        | 8      | S        | Kero                      | Released during a sunset
@@ -578,15 +578,15 @@ Metal2                    | Hard       | ★★★        | 22     | S        | 
 Micksee                   | Insane     | ★★★        | 47     | L        | Mixi                      | 2025-02-22
 midnight                  | Insane     | ★☆☆        | 27     | S        | cagent                    | 2021-02-05
 Miiep4Miezii              | Hard       | ★★☆        | 21     | M        | Miiep                     | 2019-02-23
-Miku4Lama                 | Hard       | ★★★        | 25     | M        | Hatsune Miku              | 2016-11-16
+Miku4Lama                 | Hard       | ★★★        | 25     | M        | HatsuneMiku              | 2016-11-16
 Miku4MonkeyDream          | Hard       | ★☆☆        | 24     | XL       | HatsuneMiku               | 2017-10-01
-MikuEasy                  | Easy       | ★★☆        | 4      | S        | Hatsune_Miku              | 2017-08-13
+MikuEasy                  | Easy       | ★★☆        | 4      | S        | HatsuneMiku              | 2017-08-13
 MikuGores                 | Hard       | ★★☆        | 18     | S        | HatsuneMiku               | 2018-05-31
 Milerty                   | Main       | ★★☆        | 8      | S        | sasha34827                | 2025-12-31
 Milkyway                  | Solo       | ★★☆☆☆      | 6      | -        | Zonsa                     | 2023-08-03
-Mimi                      | Extreme    | ★★☆        | 80     | XXL      | Milaseq_ & Mixi           | 2026-02-22
+Mimi                      | Extreme    | ★★☆        | 80     | XXL      | Milaseq_, Mixi            | 2026-02-22
 Mimixi                    | Hard       | ★★☆        | 18     | S        | Mixi                      | 2024-12-24
-Miwackle                  | Insane     | ★★☆        | 36     | M        | sasha34827, ŁoʋƙieeŞ散     | 2026-03-08
+Miwackle                  | Insane     | ★★☆        | 36     | M        | sasha34827, ŁoʋƙieeŞ散    | 2026-03-08
 Mine                      | Main       | ★★★        | 11     | S        | Oмezurion                 | 2021-07-23
 Minecraft                 | Insane     | ★★★        | 47     | L        | Hasty, Freguês            | 2023-02-17
 Miniature_Fantasy         | Mod        | ★★★★☆      | 22     | -        | Themix                    | Released during a sunset
@@ -620,24 +620,24 @@ MOJITO                    | Insane     | ★☆☆        | 48     | XXL      | 
 Monochromik               | Main       | ★★★        | 13     | M        | Synonym                   | 2020-10-23
 Monstro                   | Insane     | ★★☆        | 36     | M        | Deploid                   | 2022-08-12
 MoonFlip                  | Insane     | ★★★        | 42     | M        | MoonFlip                  | 2019-05-26
-MoonIX                    | Insane     | ★☆☆        | 27     | S        | ŁoʋƙieeŞ散                 | 2025-12-31
+MoonIX                    | Insane     | ★☆☆        | 27     | S        | ŁoʋƙieeŞ散                | 2025-12-31
 Moonlight                 | Insane     | ★☆☆        | 30     | M        | Windy                     | 2025-12-08
-MorfeusGrydwin            | Hard       | ★☆☆        | 9      | XXS      | Morfeus & Grydwin         | Released during a sunset
+MorfeusGrydwin            | Hard       | ★☆☆        | 9      | XXS      | Morfeus, Grydwin          | Released during a sunset
 Morrow                    | Insane     | ★★☆        | 36     | M        | Jore                      | 2023-06-12
 Mqx1                      | Insane     | ★☆☆        | 35     | L        | Mqx                       | 2025-12-22
 MqxTnul                   | Insane     | ★☆☆        | 35     | L        | Mqx, Tnul                 | 2023-10-14
 mrs_motivation            | Mod        | ★★★★★      | 32     | -        | mrs.                      | 2023-02-11
-MTr                       | Hard       | ★★★        | 25     | M        | Waguriッ                   | 2022-11-24
+MTr                       | Hard       | ★★★        | 25     | M        | Waguriッ                  | 2022-11-24
 Muay_Thai                 | Insane     | ★☆☆        | 27     | S        | Knuski                    | 2021-11-01
 MyStery                   | Main       | ★★☆        | 6      | XS       | Mystery Fox               | Released during a sunset
 N4B                       | Hard       | ★★☆        | 18     | S        | Nightmare                 | 2018-10-06
 N4D                       | Insane     | ★☆☆        | 41     | XL       | Nightmare                 | 2018-11-01
 N4M                       | Hard       | ★★☆        | 18     | S        | Nightmare                 | 2019-01-23
 N4T                       | Hard       | ★★★        | 29     | L        | Nightmare                 | 2018-12-15
-NareemKero                | Main       | ★★☆        | 8      | S        | Nareem & Kero             | Released during a sunset
+NareemKero                | Main       | ★★☆        | 8      | S        | Nareem, Kero              | Released during a sunset
 Naruto                    | Insane     | ★☆☆        | 48     | XXL      | Bo₩ser, Mixi, FJP, Crispy | 2023-04-02
 NealsonCkiS1              | Hard       | ★★★        | 25     | M        | nealson TnP and CkiS      | Released during a sunset
-NealsonCkiS5              | Hard       | ★★★        | 34     | XL       | Nealson & CkiS            | Released during a sunset
+NealsonCkiS5              | Hard       | ★★★        | 34     | XL       | Nealson, CkiS             | Released during a sunset
 NealsonCkiS8              | Insane     | ★☆☆        | 41     | XL       | Nealson TnP               | Released during a sunset
 NealsonSpeedy             | Main       | ★★☆        | 8      | S        | Nealson Tn'P              | Released during a sunset
 Nertato4Gummi             | Insane     | ★★☆        | 40     | L        | Nertato                   | 2019-09-22
@@ -704,7 +704,7 @@ Peaceful                  | Insane     | ★★★        | 38     | S        | 
 Pepino                    | Hard       | ★★★        | 25     | M        | cc                        | 2019-12-29
 Peuma                     | Main       | ★★☆        | 10     | M        | Mathysplayer              | 2021-09-21
 Phoenix                   | Insane     | ★★☆        | 36     | M        | Maze                      | 2021-07-20
-Pickuchi                  | Insane     | ★☆☆        | 27     | S        | phizyxxx & ωerιx          | 2025-09-14
+Pickuchi                  | Insane     | ★☆☆        | 27     | S        | phizyxxx, ωerιx           | 2025-09-14
 Piece_of_Sheet            | Insane     | ★★★        | 47     | L        | Jore                      | 2021-06-20
 Pillars                   | Main       | ★★★        | 13     | M        | Beautemps                 | 2021-09-07
 Pinkdream                 | Main       | ★★☆        | 10     | M        | Shivi                     | 2024-02-01
@@ -735,7 +735,7 @@ Pup2                      | Main       | ★★★        | 8      | XS       | 
 Pup3                      | Main       | ★★☆        | 8      | S        | Pup                       | Released during a sunset
 Pup4                      | Main       | ★★☆        | 6      | XS       | Pup                       | Released during a sunset
 Pup5e                     | Main       | ★★★        | 13     | M        | Pup                       | Released during a sunset
-PupRed1e                  | Main       | ★★★        | 13     | M        | Pup & RegFight            | Released during a sunset
+PupRed1e                  | Main       | ★★★        | 13     | M        | Pup, RegFight             | Released during a sunset
 Purple                    | Insane     | ★★☆        | 36     | M        | Mqx                       | 2025-11-09
 purple_space              | Hard       | ★★☆        | 24     | L        | purrpT                    | 2020-01-02
 PurpleStardust            | Insane     | ★★☆        | 36     | M        | FlipLipp                  | 2019-08-19
@@ -749,7 +749,7 @@ Q-Aip-Gores6              | Main       | ★★☆        | 6      | XS       | 
 Q-Aip-Gores7              | Main       | ★★☆        | 8      | S        | QshaR                     | Released during a sunset
 Q-Aip-Gores8              | Main       | ★★☆        | 8      | S        | QshaR                     | Released during a sunset
 Q-Dummy-Drag1             | Mod        | ★☆☆☆☆      | 4      | -        | QshaR                     | Released during a sunset
-Q-Dummy-Drag2             | Mod        | ★☆☆☆☆      | 4      | -        | QshaR & FlipLipp          | Released during a sunset
+Q-Dummy-Drag2             | Mod        | ★☆☆☆☆      | 4      | -        | QshaR, FlipLipp           | Released during a sunset
 Q-Easy1                   | Easy       | ★★★        | 4      | XS       | QshaR                     | 2017-07-02
 Q-Easy2                   | Easy       | ★★★        | 4      | XS       | QshaR                     | 2017-07-02
 Q-Gores-Unhook            | Mod        | ★★☆☆☆      | 8      | -        | QshaR                     | Released during a sunset
@@ -767,12 +767,12 @@ Q-tele                    | Hard       | ★☆☆        | 14     | S        | 
 QF-Competition            | Main       | ★★☆        | 12     | L        | QshaR                     | Released during a sunset
 QF-Competition2           | Main       | ★★★        | 16     | L        | QshaR                     | Released during a sunset
 QF-Gores                  | Main       | ★★☆        | 10     | M        | QshaR                     | Released during a sunset
-QM-Gores                  | Main       | ★★★        | 16     | L        | Morfeus & QshaR           | Released during a sunset
+QM-Gores                  | Main       | ★★★        | 16     | L        | Morfeus, QshaR            | Released during a sunset
 QuickOne                  | Main       | ★☆☆        | 6      | S        | neverminze                | 2020-05-05
 R_dventure                | Hard       | ★★★        | 22     | S        | RaiNy                     | 2019-10-19
 Race_69                   | Extreme    | ★☆☆        | 61     | XL       | Themix                    | 2024-07-05
 Radioactive               | Insane     | ★★★        | 47     | L        | purrp T                   | 2024-12-25
-RaiMee                    | Hard       | ★☆☆        | 24     | XL       | RaiNy_meew                | 2018-03-28
+RaiMee                    | Hard       | ★☆☆        | 24     | XL       | RaiNy, meew               | 2018-03-28
 RainbowRoads              | Hard       | ★★★        | 29     | L        | bzw                       | 2018-02-25
 RaiNy10                   | Hard       | ★★☆        | 21     | M        | RaiNy                     | 2018-06-18
 RaiNy4Ink                 | Hard       | ★★☆        | 21     | M        | RaiNy                     | 2017-06-23
@@ -826,7 +826,7 @@ Sanada                    | Mod        | ★★★☆☆      | 14     | -      
 Sanada2                   | Main       | ★★★        | 16     | L        | Warto                     | 2025-05-18
 Sandblast                 | Hard       | ★★☆        | 21     | M        | Shivi                     | 2024-08-23
 Sandy_Cave                | Main       | ★☆☆        | 6      | S        | TUX                       | 2018-09-12
-Sapphire                  | Main       | ★★☆        | 8      | S        | Brokecdx_Miiep            | 2018-12-15
+Sapphire                  | Main       | ★★☆        | 8      | S        | Brokecdx, Miiep           | 2018-12-15
 Saturation                | Insane     | ★☆☆        | 30     | M        | sync, Zonsa               | 2020-09-19
 Savannux                  | Easy       | ★☆☆        | 1      | XXS      | Tux                       | 2024-05-31
 Scary                     | Insane     | ★★★        | 42     | M        | UnKnown                   | 2021-08-28
@@ -867,7 +867,7 @@ Slave_of_evil             | Insane     | ★★★        | 42     | M        | 
 SnailChan_Adventure       | Insane     | ★☆☆        | 35     | L        | Shiiir0, Xin              | 2021-07-16
 Snakepit                  | Insane     | ★★★        | 54     | XL       | Mixi                      | 2023-12-31
 snikichu                  | Extreme    | ★★☆        | 91     | XXXL     | ejjie                     | 2025-10-05
-SnipeZonsa                | Insane     | ★★☆        | 40     | L        | SnipeZ² & Zonsa           | 2025-03-22
+SnipeZonsa                | Insane     | ★★☆        | 40     | L        | SnipeZ², Zonsa            | 2025-03-22
 Snow_Sleep                | Hard       | ★☆☆        | 35     | XXXL     | Mixi                      | 2023-09-01
 SoFall                    | Hard       | ★★★        | 25     | M        | Fallet, Soyler            | 2020-10-06
 SolarSystem               | Hard       | ★★☆        | 29     | XL       | mind and tux              | 2021-06-13
@@ -896,7 +896,7 @@ Stonesss                  | Solo       | ★☆☆☆☆      | 3      | -      
 Stripes                   | Hard       | ★★★        | 25     | M        | Genex                     | 2019-05-24
 subdue                    | Easy       | ★★☆        | 4      | S        | FJP                       | 2024-12-29
 SummerNights              | Hard       | ★★★        | 25     | M        | purrpT                    | 2023-06-22
-Suna_Tokei                | Insane     | ★★★        | 42     | M        | Zonsa_pandoru_j4m3s       | 2019-10-19
+Suna_Tokei                | Insane     | ★★★        | 42     | M        | Zonsa, pandoru, j4m3s     | 2019-10-19
 Sunrise                   | Insane     | ★☆☆        | 23     | XS       | ωerιx                     | 2025-10-05
 Sunshine                  | Easy       | ★☆☆        | 1      | XXS      | Afterbjörn                | 2024-11-26
 SUPSANE                   | Insane     | ★★☆        | 36     | M        | Shyzo                     | 2018-04-28
@@ -924,7 +924,7 @@ Terston5                  | Hard       | ★★☆        | 18     | S        | 
 Terston6                  | Hard       | ★☆☆        | 14     | S        | Terston                   | 2021-08-17
 Terston7                  | Main       | ★★★        | 13     | M        | Terston                   | 2022-07-08
 Terston8                  | Main       | ★★★        | 13     | M        | Terston                   | 2025-09-07
-TerstonBzw                | Hard       | ★☆☆        | 16     | M        | Terston_bzw               | 2019-12-19
+TerstonBzw                | Hard       | ★☆☆        | 16     | M        | Terston, bzw              | 2019-12-19
 The_Cube_2                | Insane     | ★★★        | 47     | L        | SlyDzE                    | 2022-11-15
 The_End                   | Extreme    | ★★★        | 58     | S        | Mixi                      | 2024-01-24
 The_Ghost_Train           | Hard       | ★★★        | 41     | XXL      | Beautemps, Krumplee, BoWser, Brokecdx-, FlipLipp | 2022-10-29
@@ -935,16 +935,16 @@ TheForest                 | Main       | ★★★        | 13     | M        | 
 TheGauntlet               | Insane     | ★★★        | 63     | XXL      | Destin                    | 2019-06-03
 TheGauntlet2              | Extreme    | ★☆☆        | 81     | XXXL     | Destin                    | 2022-12-26
 Themed4RegKecske          | Insane     | ★★☆        | 32     | S        | Themed                    | 2025-04-06
-themixi                   | Insane     | ★★★        | 47     | L        | Themix & Mixi             | 2025-05-09
-themixi_2                 | Extreme    | ★★☆        | 80     | XXL      | Themix & Mixi             | 2025-08-24
+themixi                   | Insane     | ★★★        | 47     | L        | Themix, Mixi              | 2025-05-09
+themixi_2                 | Extreme    | ★★☆        | 80     | XXL      | Themix, Mixi              | 2025-08-24
 ThisIsSnipeZ              | Insane     | ★★☆        | 36     | M        | SnipeZ²                   | 2024-12-27
 Through_the_Dust          | Main       | ★★★        | 11     | S        | Ravie                     | 2018-11-11
 TimeWarp                  | Main       | ★★★        | 13     | M        | tux and Ravie             | 2021-02-23
 Together                  | Mod        | ★★☆☆☆      | 22     | -        | FJP                       | 2025-07-13
 Tomahawk                  | Insane     | ★★☆        | 40     | L        | Neo                       | 2018-09-13
-TomTom                    | Insane     | ★☆☆        | 30     | M        | Destom_Hesse              | 2017-07-14
+TomTom                    | Insane     | ★☆☆        | 30     | M        | Destom, Hesse             | 2017-07-14
 TomTom2                   | Insane     | ★☆☆        | 35     | L        | Hesse                     | 2017-08-06
-TomTom3                   | Hard       | ★★★        | 29     | L        | Hesse_Destom              | 2017-09-11
+TomTom3                   | Hard       | ★★★        | 29     | L        | Hesse, Destom             | 2017-09-11
 TomTom4                   | Insane     | ★★☆        | 40     | L        | Destin,Hesse              | 2020-07-08
 TomTom5                   | Insane     | ★☆☆        | 35     | L        | Destin, Hesse             | 2020-11-06
 TomTom6                   | Insane     | ★★☆        | 47     | XL       | Destin, Hesse             | 2020-12-08
@@ -994,7 +994,7 @@ White                     | Main       | ★★★        | 11     | S        | 
 Whitedom                  | Hard       | ★★☆        | 21     | M        | RealTaco                  | 2023-08-25
 WhiteMoon                 | Hard       | ★★★        | 22     | S        | FlipLipp                  | 2018-11-19
 Wicked                    | Insane     | ★★☆        | 36     | M        | Jore                      | 2022-05-24
-Wilderness                | Hard       | ★★☆        | 21     | M        | wer1xx & sasha34827       | 2025-08-17
+Wilderness                | Hard       | ★★☆        | 21     | M        | wer1xx, sasha34827        | 2025-08-17
 Wind_Vane                 | Main       | ★☆☆        | 6      | S        | mind                      | 2024-10-18
 Winter_rain               | Insane     | ★☆☆        | 27     | S        | MoonCake                  | 2022-04-05
 Winter_rain_twisted       | Others     | ★★★        | 0      | -        | mind                      | 2024-12-07
@@ -1005,7 +1005,7 @@ XmasAdventure             | Main       | ★★★        | 16     | L        | 
 XmasMove                  | Hard       | ★☆☆        | 16     | M        | tux                       | 2020-03-02
 Xoxo4Hendrix              | Insane     | ★☆☆        | 30     | M        | Xoxo                      | 2021-01-05
 xRyperion                 | Main       | ★★☆        | 8      | S        | xRyperion_                | Released during a sunset
-xRyperionGecko            | Main       | ★★☆        | 10     | M        | xRyperion_ & Gecko & FlipLipp | Released during a sunset
+xRyperionGecko            | Main       | ★★☆        | 10     | M        | xRyperion_, Gecko, FlipLipp | Released during a sunset
 Xyz_gores                 | Mod        | ★★☆☆☆      | 8      | -        | Themix                    | Released during a sunset
 YellowMoon                | Insane     | ★☆☆        | 35     | L        | FlipLipp                  | 2018-12-23
 Yo1                       | Main       | ★★★        | 8      | XS       | Yo                        | Released during a sunset
@@ -1025,23 +1025,23 @@ Yo6                       | Main       | ★★★        | 16     | L        | 
 Yo7                       | Main       | ★★☆        | 15     | XL       | Yo                        | Released during a sunset
 Yo8                       | Main       | ★★☆        | 10     | M        | Yo                        | Released during a sunset
 Yo9                       | Main       | ★★★        | 13     | M        | Yo                        | Released during a sunset
-YoAirm4x                  | Main       | ★★★        | 11     | S        | Yo & AIRM4X               | Released during a sunset
+YoAirm4x                  | Main       | ★★★        | 11     | S        | Yo, AIRM4X                | Released during a sunset
 Yoc4crunchY               | Insane     | ★★☆        | 36     | M        | Yoc                       | 2020-08-22
 Yoc4mpampas               | Insane     | ★★★        | 47     | L        | Yoc                       | 2021-10-22
-YoCkis4                   | Main       | ★★★        | 24     | XXL      | Yo & CkiS                 | Released during a sunset
+YoCkis4                   | Main       | ★★★        | 24     | XXL      | Yo, CkiS                  | Released during a sunset
 YoCkiS5                   | Hard       | ★★★        | 29     | L        | Yo                        | 2016-12-17
 Yoin4Crispy               | Main       | ★★★        | 11     | S        | Yoin                      | 2022-05-27
 Yoin4Tester               | Insane     | ★★☆        | 32     | S        | Yoin                      | 2024-05-21
-YoJustTeE                 | Main       | ★★☆        | 10     | M        | Yo & JustTeE              | Released during a sunset
+YoJustTeE                 | Main       | ★★☆        | 10     | M        | Yo, JustTeE               | Released during a sunset
 YoJustTee2                | Main       | ★★★        | 20     | XL       | Yo                        | 2017-03-01
 Yuslo4Nizzza              | Insane     | ★☆☆        | 35     | L        | Yuslo                     | 2017-02-24
 Yuslo4Shoyyy              | Insane     | ★☆☆        | 35     | L        | Yuslo                     | 2017-03-24
-YusloCkis1                | Insane     | ★★☆        | 36     | M        | Yuslo_CkiS                | 2017-07-07
+YusloCkis1                | Insane     | ★★☆        | 36     | M        | Yuslo, CkiS               | 2017-07-07
 za1e                      | Hard       | ★☆☆        | 16     | M        | zale                      | 2020-03-14
 zale4blim                 | Hard       | ★★★        | 25     | M        | zale                      | 2020-07-28
 zale4coany                | Hard       | ★☆☆        | 14     | S        | Zale                      | 2023-11-17
 Zentarus                  | Insane     | ★★☆        | 36     | M        | ρнιʐyxxx                  | 2025-11-18
-ZeroKani4JuKKi            | Insane     | ★★★        | 47     | L        | Krumplee & TheSunSan      | 2025-10-12
+ZeroKani4JuKKi            | Insane     | ★★★        | 47     | L        | Krumplee, TheSunSan       | 2025-10-12
 ZeroSeven                 | Main       | ★☆☆        | 6      | S        | KOF                       | 2022-04-29
 Zerox4Busted              | Hard       | ★☆☆        | 20     | L        | Zerox                     | 2018-03-19
 Zerox4Nox                 | Main       | ★★☆        | 6      | XS       | Zerox                     | Released during a sunset
