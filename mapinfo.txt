@@ -94,7 +94,7 @@ Bl0od4Waschi              | Hard       | ★★★        | 25     | M        | 
 Bl0od4Zant                | Main       | ★★☆        | 8      | S        | Bl0odDens                 | Released during a sunset
 Bl0odDens5                | Main       | ★★★        | 13     | M        | Bl0odDens                 | 2013-05-13
 Bl0odDens7                | Main       | ★★☆        | 8      | S        | Bl0odDens                 | Released during a sunset
-Bl0odDens8                | Others     | ★☆☆        | 1      | -        | Bl0odDens                 | Released during a sunset
+Bl0odDens8                | Others     | ★☆☆        | 3      | -        | Bl0odDens                 | Released during a sunset
 Bl0odFlip                 | Main       | ★★★        | 13     | M        | Bl0odDens, FlipLipp       | Released during a sunset
 BLACK_SMOKE               | Main       | ★☆☆        | 5      | XS       | Rei ayanami               | 2021-07-09
 Black_Widow               | Extreme    | ★☆☆        | 54     | L        | Mixi                      | 2023-12-15
@@ -523,7 +523,7 @@ kakdela                   | Insane     | ★☆☆        | 27     | S        | 
 Kaston                    | Insane     | ★☆☆        | 30     | M        | ZXC¿Girl?, Twisted        | 2025-08-17
 Kawk_Doo                  | Insane     | ★★★        | 42     | M        | 곽 두                       | 2024-06-07
 Kero-Gores1               | Main       | ★★☆        | 8      | S        | Kero                      | Released during a sunset
-Kero-Gores2               | Others     | ★☆☆        | 1      | -        | Kero                      | Released during a sunset
+Kero-Gores2               | Others     | ★☆☆        | 12      | -        | Kero                      | Released during a sunset
 Kero-Gores3               | Main       | ★★☆        | 10     | M        | Kero                      | Released during a sunset
 Kero-Gores4               | Main       | ★★☆        | 8      | S        | Kero                      | Released during a sunset
 Kero-Gores5               | Main       | ★☆☆        | 8      | M        | Kero                      | Released during a sunset
