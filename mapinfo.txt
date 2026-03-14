@@ -843,6 +843,7 @@ Screwdriver               | Hard       | ★★☆        | 24     | L        | 
 sd004_NIghtLIfe           | Main       | ★★☆        | 12     | L        | sd030                     | 2022-01-18
 sd005                     | Main       | ★★☆        | 8      | S        | sd030                     | 2021-12-23
 Selva                     | Main       | ★★☆        | 8      | S        | Warto                     | 2023-01-13
+sep-gores                 | Others     | ★☆☆        | 1      | -        | Xusep                     | 2020-04-01
 SEMI                      | Main       | ★★☆        | 8      | S        | Rei ayanami               | 2021-12-30
 SendanLife                | Insane     | ★☆☆        | 27     | S        | Afterbjörn                | 2025-11-02
 Serenitee                 | Insane     | ★★★        | 38     | S        | firewave                  | 2022-08-26
@@ -1054,6 +1055,7 @@ Zentarus                  | Insane     | ★★☆        | 36     | M        | 
 ZeroKani4JuKKi            | Insane     | ★★★        | 47     | L        | Krumplee, TheSunSan       | 2025-10-12
 ZeroSeven                 | Main       | ★☆☆        | 6      | S        | KOF                       | 2022-04-29
 Zerox4Busted              | Hard       | ★☆☆        | 20     | L        | Zerox                     | 2018-03-19
+Zerox4Busted-Halloween    | Others     | ★☆☆        | 2      | -        | Zerox                     | 2018-03-19
 Zerox4Nox                 | Main       | ★★☆        | 6      | XS       | Zerox                     | Released during a sunset
 ziinox                    | Extreme    | ★★★        | 101    | XXXL     | Zonsa                     | 2023-11-15
 Zonsa4Luckuy21            | Main       | ★★☆        | 8      | S        | Zonsa                     | 2020-12-05
