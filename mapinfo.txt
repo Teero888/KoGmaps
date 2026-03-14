@@ -94,6 +94,7 @@ Bl0od4Waschi              | Hard       | ★★★        | 25     | M        | 
 Bl0od4Zant                | Main       | ★★☆        | 8      | S        | Bl0odDens                 | Released during a sunset
 Bl0odDens5                | Main       | ★★★        | 13     | M        | Bl0odDens                 | 2013-05-13
 Bl0odDens7                | Main       | ★★☆        | 8      | S        | Bl0odDens                 | Released during a sunset
+Bl0odDens8                | Others     | ★☆☆        | 1      | -        | Bl0odDens                 | Released during a sunset
 Bl0odFlip                 | Main       | ★★★        | 13     | M        | Bl0odDens, FlipLipp       | Released during a sunset
 BLACK_SMOKE               | Main       | ★☆☆        | 5      | XS       | Rei ayanami               | 2021-07-09
 Black_Widow               | Extreme    | ★☆☆        | 54     | L        | Mixi                      | 2023-12-15
@@ -214,6 +215,7 @@ Corazon4Drakenmake        | Hard       | ★★★        | 25     | M        | 
 Corazon4himself           | Hard       | ★★★        | 22     | S        | Corazon                   | 2019-07-23
 Corazon4maxrider2         | Hard       | ★★★        | 25     | M        | Corazon                   | 2019-01-17
 Corazon4Ym2               | Hard       | ★★★        | 25     | M        | Corazon                   | 2019-01-28
+Corgores                  | Others     | ★☆☆        | 1      | -        | ImCorneum                 | Released during a sunset
 corgores2                 | Hard       | ★★☆        | 18     | S        | ImCorneum                 | 2019-11-18
 Corrupted                 | Insane     | ★★★        | 47     | L        | JSON                      | 2020-09-08
 Corrupted_Easy            | Main       | ★☆☆        | 6      | S        | JSON                      | 2020-08-11
@@ -253,6 +255,7 @@ DesertQuest               | Main       | ★★★        | 20     | XL       | 
 Destin2                   | Main       | ★★☆        | 8      | S        | destin, Kero              | Released during a sunset
 dindila                   | Insane     | ★★☆        | 36     | M        | bzw                       | 2021-01-04
 dionle                    | Main       | ★★★        | 13     | M        | elnoid                    | 2024-12-03
+Dirty_RaiNy               | Others     | ★☆☆        | 1      | -        | RaiNy                     | Released during a sunset
 Discipline                | Solo       | ★★★☆☆      | 14     | -        | ѕнαяу                     | 2024-05-11
 DM_Gores                  | Main       | ★★☆        | 8      | S        | mind                      | 2022-11-29
 DoorWays                  | Solo       | ★★★☆☆      | 14     | -        | Шизик                     | 2023-01-10
@@ -470,7 +473,7 @@ Hoarfrost2                | Insane     | ★★★        | 47     | L        | 
 Hoarfrost_twisted         | Others     | ★★★        | 0      | -        | mind                      | 2024-12-14
 Honeycomb                 | Hard       | ★★☆        | 29     | XL       | Route66                   | 2022-05-06
 Hooksy                    | Hard       | ★★★        | 22     | S        | ZXC¿Girl?                 | 2025-09-29
-HQ-Race                   | Others     | ★☆☆        | 1      | XXS      | QshaR                     | Released during a sunset
+HQ-Race                   | Others     | ★☆☆        | 1      | -        | QshaR                     | Released during a sunset
 humik                     | Hard       | ★★☆        | 21     | M        | humik                     | 2023-09-20
 Humik4Alea                | Main       | ★★☆        | 8      | S        | humik                     | 2022-02-11
 i_need_mushroom_girl      | Hard       | ★★☆        | 21     | M        | ZXC¿Girl?                 | 2025-10-12
@@ -518,8 +521,9 @@ justfeat                  | Insane     | ★☆☆        | 30     | M        | 
 JustTeE4JustNoob          | Hard       | ★★☆        | 21     | M        | Just_TeE                  | 2016-11-26
 kakdela                   | Insane     | ★☆☆        | 27     | S        | ejjie                     | 2025-09-29
 Kaston                    | Insane     | ★☆☆        | 30     | M        | ZXC¿Girl?, Twisted        | 2025-08-17
-Kawk_Doo                  | Insane     | ★★★        | 42     | M        | 곽 두                     | 2024-06-07
+Kawk_Doo                  | Insane     | ★★★        | 42     | M        | 곽 두                       | 2024-06-07
 Kero-Gores1               | Main       | ★★☆        | 8      | S        | Kero                      | Released during a sunset
+Kero-Gores2               | Others     | ★☆☆        | 1      | -        | Kero                      | Released during a sunset
 Kero-Gores3               | Main       | ★★☆        | 10     | M        | Kero                      | Released during a sunset
 Kero-Gores4               | Main       | ★★☆        | 8      | S        | Kero                      | Released during a sunset
 Kero-Gores5               | Main       | ★☆☆        | 8      | M        | Kero                      | Released during a sunset
@@ -655,6 +659,7 @@ No_mercy                  | Solo       | ★★★★★      | 44     | -      
 Noctulo                   | Insane     | ★☆☆        | 30     | M        | elnoid                    | 2024-07-11
 Nocturne                  | Solo       | ★★☆        | 6      | -        | Canarda                   | 2026-03-08
 Noe1                      | Main       | ★★★        | 11     | S        | Noe                       | 2021-05-07
+North                     | Others     | ★☆☆        | 1      | -        | QshaR                     | Released during a sunset
 NoWENTEE                  | Main       | ★★★        | 11     | S        | sd030                     | 2022-07-15
 Nox1                      | Hard       | ★★★        | 22     | S        | Nox                       | 2016-11-23
 Nox2                      | Insane     | ★☆☆        | 35     | L        | Nox                       | 2017-06-25
@@ -779,6 +784,7 @@ RaiMee                    | Hard       | ★☆☆        | 24     | XL       | 
 RainbowRoads              | Hard       | ★★★        | 29     | L        | bzw                       | 2018-02-25
 RaiNy10                   | Hard       | ★★☆        | 21     | M        | RaiNy                     | 2018-06-18
 RaiNy4Ink                 | Hard       | ★★☆        | 21     | M        | RaiNy                     | 2017-06-23
+RaiNy4Nealson            | Others     | ★☆☆        | 1      | -        | RaiNy                     | Released during a sunset
 RaiNyMore                 | Hard       | ★☆☆        | 16     | M        | RaiNy                     | 2017-09-02
 RaiNyMore2                | Hard       | ★★★        | 25     | M        | RaiNy                     | 2019-05-29
 RaiNyOD                   | Hard       | ★★☆        | 21     | M        | RaiNy                     | 2017-10-31
@@ -934,6 +940,7 @@ The_Ghost_Train           | Hard       | ★★★        | 41     | XXL      | 
 The_Price                 | Insane     | ★☆☆        | 30     | M        | Twisted                   | 2025-10-26
 The_Pyra                  | Main       | ★★★        | 13     | M        | RaiNy                     | 2017-01-25
 TheCube                   | Hard       | ★★★        | 29     | L        | SlyDzE                    | 2020-12-11
+TheDarkJungle             | Others     | ★☆☆        | 1      | -        | Warlord                   | 2018-05-08
 TheForest                 | Main       | ★★★        | 13     | M        | Oмezurion                 | 2021-01-19
 TheGauntlet               | Insane     | ★★★        | 63     | XXL      | Destin                    | 2019-06-03
 TheGauntlet2              | Extreme    | ★☆☆        | 81     | XXXL     | Destin                    | 2022-12-26
