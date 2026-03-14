@@ -521,9 +521,9 @@ justfeat                  | Insane     | ★☆☆        | 30     | M        | 
 JustTeE4JustNoob          | Hard       | ★★☆        | 21     | M        | Just_TeE                  | 2016-11-26
 kakdela                   | Insane     | ★☆☆        | 27     | S        | ejjie                     | 2025-09-29
 Kaston                    | Insane     | ★☆☆        | 30     | M        | ZXC¿Girl?, Twisted        | 2025-08-17
-Kawk_Doo                  | Insane     | ★★★        | 42     | M        | 곽 두                       | 2024-06-07
+Kawk_Doo                  | Insane     | ★★★        | 42     | M        | 곽 두                     | 2024-06-07
 Kero-Gores1               | Main       | ★★☆        | 8      | S        | Kero                      | Released during a sunset
-Kero-Gores2               | Others     | ★☆☆        | 12      | -        | Kero                      | Released during a sunset
+Kero-Gores2               | Others     | ★☆☆        | 12     | -        | Kero                      | Released during a sunset
 Kero-Gores3               | Main       | ★★☆        | 10     | M        | Kero                      | Released during a sunset
 Kero-Gores4               | Main       | ★★☆        | 8      | S        | Kero                      | Released during a sunset
 Kero-Gores5               | Main       | ★☆☆        | 8      | M        | Kero                      | Released during a sunset
@@ -659,7 +659,7 @@ No_mercy                  | Solo       | ★★★★★      | 44     | -      
 Noctulo                   | Insane     | ★☆☆        | 30     | M        | elnoid                    | 2024-07-11
 Nocturne                  | Solo       | ★★☆        | 6      | -        | Canarda                   | 2026-03-08
 Noe1                      | Main       | ★★★        | 11     | S        | Noe                       | 2021-05-07
-North                     | Others     | ★☆☆        | 1      | -        | QshaR                     | Released during a sunset
+North                     | Others     | ★☆☆        | 1      | -        | QshaR                     | 2015-12-25
 NoWENTEE                  | Main       | ★★★        | 11     | S        | sd030                     | 2022-07-15
 Nox1                      | Hard       | ★★★        | 22     | S        | Nox                       | 2016-11-23
 Nox2                      | Insane     | ★☆☆        | 35     | L        | Nox                       | 2017-06-25
@@ -784,7 +784,7 @@ RaiMee                    | Hard       | ★☆☆        | 24     | XL       | 
 RainbowRoads              | Hard       | ★★★        | 29     | L        | bzw                       | 2018-02-25
 RaiNy10                   | Hard       | ★★☆        | 21     | M        | RaiNy                     | 2018-06-18
 RaiNy4Ink                 | Hard       | ★★☆        | 21     | M        | RaiNy                     | 2017-06-23
-RaiNy4Nealson            | Others     | ★☆☆        | 1      | -        | RaiNy                     | Released during a sunset
+RaiNy4Nealson             | Others     | ★☆☆        | 1      | -        | RaiNy                     | 2017-10-03
 RaiNyMore                 | Hard       | ★☆☆        | 16     | M        | RaiNy                     | 2017-09-02
 RaiNyMore2                | Hard       | ★★★        | 25     | M        | RaiNy                     | 2019-05-29
 RaiNyOD                   | Hard       | ★★☆        | 21     | M        | RaiNy                     | 2017-10-31
