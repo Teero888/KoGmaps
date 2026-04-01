@@ -58,6 +58,7 @@ Aqua                      | Hard       | ★☆☆        | 14     | S        | 
 Arcturus                  | Hard       | ★☆☆        | 16     | M        | Warto                     | 2024-03-16
 Arena                     | Main       | ★★☆        | 8      | S        | Warto                     | 2023-08-23
 Arise                     | Solo       | ★★★☆☆      | 14     | -        | FJP                       | 2024-07-20
+Arylz4chile               | Insane     | ★★☆        | 32     | S        | Arylz                     | 2026-03-31
 Arylz4ChillerDragon       | Hard       | ★☆☆        | 11     | XS       | Arylz                     | 2025-10-26
 Arylz4FJP                 | Main       | ★★★        | 11     | S        | Arylz                     | 2023-12-30
 Arylz4KoG                 | Main       | ★★★        | 11     | S        | Arylz                     | 2025-08-02
@@ -427,6 +428,7 @@ Granulos_De_Roca          | Insane     | ★★☆        | 32     | S        | 
 Grassless                 | Hard       | ★★★        | 22     | S        | Minem                     | 2026-02-16
 Grassy_Lands              | Hard       | ★★★        | 41     | XXL      | Canarda                   | 2025-09-23
 Grayscale                 | Hard       | ★★★        | 22     | S        | Thermiq                   | 2023-12-31
+Green                     | Insane     | ★★☆        | 32     | S        | Mqx                       | 2026-03-31
 GreeniRedFight            | Main       | ★★★        | 8      | XS       | Greeni, RedFight          | Released during a sunset
 GreenMoon                 | Hard       | ★★☆        | 18     | S        | FlipLipp                  | 2018-12-11
 Greeny                    | Easy       | ★★★        | 4      | XS       | KOF                       | 2022-04-26
